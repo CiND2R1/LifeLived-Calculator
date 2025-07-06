@@ -1,7 +1,5 @@
 # Life-Lived-Calculator
 
-# Life Lived Calculator
-
 A simple Python program that lets users calculate how long they've lived based on their birth date — in years, months, weeks, days, hours, or even seconds!
 
 ## 📌 Features
